@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Define the MEAN image using SVG</title>
+</head>
+<body>
+<svg width="160" height="275" style="border: 1px solid blue; border-radius: 5px; background-color: #f5ffe0">
+
+    // black circle
+    <circle r="40" cx="95" cy="65" fill="#3e3f37"/>
+    <path stroke="#449644" fill="#449644"
+          d="M95 35 Q115 60 95 95 z"></path>
+    <path stroke="#5eb14a" fill="#5eb14a"
+          d="M95 35 Q75 60 95 95 z"></path>
+
+    //letter M
+    <path stroke="#3e3f36" fill="none" style="stroke-width: 5px"
+          d="M20 70 v-27 l 7 20 l 7 -20 v27"></path>
+
+    //next circle with express
+    <circle r="40" cx="95" cy="110" fill="#282827"/>
+    <text x="57" y="115" fill="white"
+          style="font-size: 20px;font-family: Arial ">express</text>
+
+    //letter E with return on the line becoause iam lazy
+    <path stroke="#3e3f36" fill="none" style="stroke-width: 5px"
+          d="M20 120 v-27 h17 h-17 v13 h17 h-17 v13 h17"></path>
+
+    //red circle
+    <circle r="40" cx="95" cy="165" fill="#e23337"/>
+
+    //inner element
+    <path stroke="#aeb9bb" fill="none" style="stroke-width: 3px"
+          d="M75 170 l -3 -20 l 20 -10 l 20 10 l -3 20 "></path>
+
+    <path stroke="#aeb9bb" fill="none" style="stroke-width: 5px"
+            d="M85 170 l 7 -23 l 7 23 "></path>
+
+    //letter A
+    <path stroke="red" fill="none" style="stroke-width: 5px"
+          d="M20 180 l 10 -30 l 10 30 l -5 -12 h-13"></path>
+
+    //green circle
+    <circle r="40" cx="95" cy="205" fill="#8ec74e"/>
+    <image xlink:href="nodejs.png" x="55" y="180" height="40" width="80"/>
+
+    //Letter N
+    <path stroke="#8ec74e" fill="none" style="stroke-width: 5px"
+           d="M20 225 v -25 l 20 20 v -25" ></path>
+
+</svg>
+
+
+</body>
+</html>

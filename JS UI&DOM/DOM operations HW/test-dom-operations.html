@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="root">
+    <a href="#" class="button"></a>
+    <a href="#" class="button"></a>
+    <br/><div class="content">Content</div>
+    <a href="#" class="button"></a>
+    <br/><div class="content">Content</div>
+    <a href="#" class="button"></a>
+    <br/><div class="content">Content</div>
+    <a href="#" class="button"></a>
+    <a href="#" class="button"></a>
+    <br/><div class="content">Content</div>
+    <a href="#" class="button"></a>
+    <a href="#" class="button"></a>
+    <a href="#" class="button"></a>
+    <br/><div class="content">Content</div>
+</div>
+<script>
+
+    var body = document.getElementsByTagName('body')[0];
+    var selectedElement = document.getElementById('root');
+    //console.log(selectedElement);
+    var content = selectedElement.children;
+
+    var initialChilren = [];
+    //get initial lenght at this moment
+    var len = content.length;
+
+    // get initial array, that not changes!!!
+    for(var i = 0; i<len; i+=1){
+          //IF not clone, will disappeared!!!
+        var clone = content[i].cloneNode(true);
+        initialChilren.push(clone);
+    }
+
+    var div = document.createElement('div');
+    var fragment = document.createDocumentFragment();
+
+    for(var i = 0; i<len; i+=1){
+
+        var current = div.cloneNode(true);
+        current.innerHTML=''+i;
+        //Must assign it, else dont work!!
+        var toAppend = initialChilren[i];
+        current.appendChild(toAppend);
+        fragment.appendChild(current);
+    }
+
+    console.log(fragment);
+    body.appendChild(fragment);
+</script>
+
+</body>
+</html>
