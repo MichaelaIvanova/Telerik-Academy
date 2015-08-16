@@ -1,0 +1,5 @@
+D:\Visual Studio\Primitive-Data-Types\StingsAndObjects\bin\Debug\StingsAndObjects.exe.config
+D:\Visual Studio\Primitive-Data-Types\StingsAndObjects\bin\Debug\StingsAndObjects.exe
+D:\Visual Studio\Primitive-Data-Types\StingsAndObjects\bin\Debug\StingsAndObjects.pdb
+D:\Visual Studio\Primitive-Data-Types\StingsAndObjects\obj\Debug\StingsAndObjects.exe
+D:\Visual Studio\Primitive-Data-Types\StingsAndObjects\obj\Debug\StingsAndObjects.pdb

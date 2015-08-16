@@ -1,0 +1,5 @@
+D:\Visual Studio\Operators-and-Expressions\09.Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\Visual Studio\Operators-and-Expressions\09.Trapezoids\bin\Debug\Trapezoids.exe
+D:\Visual Studio\Operators-and-Expressions\09.Trapezoids\bin\Debug\Trapezoids.pdb
+D:\Visual Studio\Operators-and-Expressions\09.Trapezoids\obj\Debug\Trapezoids.exe
+D:\Visual Studio\Operators-and-Expressions\09.Trapezoids\obj\Debug\Trapezoids.pdb

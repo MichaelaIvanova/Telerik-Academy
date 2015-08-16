@@ -1,0 +1,5 @@
+D:\Visual Studio\Primitive-Data-Types\QuotsAndStrings\bin\Debug\QuotsAndStrings.exe.config
+D:\Visual Studio\Primitive-Data-Types\QuotsAndStrings\bin\Debug\QuotsAndStrings.exe
+D:\Visual Studio\Primitive-Data-Types\QuotsAndStrings\bin\Debug\QuotsAndStrings.pdb
+D:\Visual Studio\Primitive-Data-Types\QuotsAndStrings\obj\Debug\QuotsAndStrings.exe
+D:\Visual Studio\Primitive-Data-Types\QuotsAndStrings\obj\Debug\QuotsAndStrings.pdb

@@ -1,0 +1,3 @@
+D:\Visual Studio\Operators-and-Expressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\Visual Studio\Operators-and-Expressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\Visual Studio\Operators-and-Expressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

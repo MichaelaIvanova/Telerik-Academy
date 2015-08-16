@@ -1,0 +1,27 @@
+Problem 11. Programming Languages
+* Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
+* Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use English.
+
+C#  and Java
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both areclass-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" .Both languages are statically typed with class-based object orientation.
+Both languages support a number of built-in types that are copied and passed by value rather than by reference. Java calls these types primitive types, while they are called simple types in C#. The simple/primitive types typically have native support from the underlying processor architecture. Java does not feature unsigned integer types. In particular, Java lacks a primitive type for an unsigned byte. Instead Java's byte type is sign extended which is a common source of bugs and confusion.
+
+
+C# and Visual Basic.NET
+
+C# and Visual Basic .NET are the two primary languages used to program on the .NET Framework. They compile to the same intermediate language (IL), which runs against the same .NET Framework runtime libraries.[6] Although there are some differences in the programming constructs (discussed further below), their differences are primarily syntactic and, assuming one avoids the Visual Basic "Compatibility" libraries provided by Microsoft to aid conversion from VB6, almost every command in VB has an equivalent command in C# and vice versa. Lastly, both languages reference the same Base Classes of the .NET Framework to extend their functionality. As a result, with few exceptions, a program written in either language can be run through a simple syntax converter to translate to the other. There are many open source and commercially available products for this task.
+
+C# and PHP
+You compose your page out of "web components" which are aware of their state and can fire events like "button click". Once a event is fired, your C# logic (no HTML / JS here) will change the state of the page components or add new one on the fly. Components are then invoked by the framework to render themselves. You don't have to know anything to HTML to be able to code. PHP generates directly the HTML / JS / CSS used to compose the page and produce the end HTML page directly from the code or if you are smart enough using things like templates engines. You must know HTML at least to be able to develop PHP web sites. PHP can run on ANY platform, C# can natively ONLY RUN ON WINDOWS driven platforms. PHP can actually run background tasks, it just needs a clever programmer to do it. And besides, PHP was NOT designed for those sort of tasks.
+
+C# and Phyton
+
+Phyton is ease of learning, cross platform development, availability of open source libraries. Python is better in readability, C# has more consistent syntax.  C#  has standard library, language features, development process and tools, performance, language evolution speed and has more consistent syntax and formatting rules.
+
+C# and C++
+
+C# is a distinct language from C++. C++ is designed for general object oriented programming in the days when the typical computer was a standalone machine running a command line-based user interface. C++ is a general-purpose programming language with high-level and low-levelcapabilities. It is a statically typed, free-form, multi-paradigm, usually compiled language supportingprocedural programming, data abstraction, object-oriented programming, and generic programming. C++ is regarded as a mid-level language. This indicates that C++ comprises a combination of both high-level and low-level language features. C# is designed specifically to work with the .Net and is geared to the modern environment of Windows and mouse-controlled user interface, networks and the internet.
+
+
+
+

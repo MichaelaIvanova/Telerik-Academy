@@ -1,0 +1,6 @@
+D:\Visual Studio\Console-Input-Output\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe.config
+D:\Visual Studio\Console-Input-Output\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe
+D:\Visual Studio\Console-Input-Output\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.pdb
+D:\Visual Studio\Console-Input-Output\06. Quadratic Equation\obj\Debug\06. Quadratic Equation.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Console-Input-Output\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.exe
+D:\Visual Studio\Console-Input-Output\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.pdb

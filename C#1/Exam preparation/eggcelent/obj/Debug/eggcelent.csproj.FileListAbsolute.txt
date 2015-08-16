@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\eggcelent\bin\Debug\eggcelent.exe.config
+D:\Visual Studio\Exam preparation\eggcelent\bin\Debug\eggcelent.exe
+D:\Visual Studio\Exam preparation\eggcelent\bin\Debug\eggcelent.pdb
+D:\Visual Studio\Exam preparation\eggcelent\obj\Debug\eggcelent.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\eggcelent\obj\Debug\eggcelent.exe
+D:\Visual Studio\Exam preparation\eggcelent\obj\Debug\eggcelent.pdb

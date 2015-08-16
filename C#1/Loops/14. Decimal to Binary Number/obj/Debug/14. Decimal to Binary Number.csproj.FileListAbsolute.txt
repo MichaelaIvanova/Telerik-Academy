@@ -1,0 +1,6 @@
+D:\Visual Studio\Loops\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.exe.config
+D:\Visual Studio\Loops\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.exe
+D:\Visual Studio\Loops\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.pdb
+D:\Visual Studio\Loops\14. Decimal to Binary Number\obj\Debug\14. Decimal to Binary Number.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Loops\14. Decimal to Binary Number\obj\Debug\_14.Decimal_to_Binary_Number.exe
+D:\Visual Studio\Loops\14. Decimal to Binary Number\obj\Debug\_14.Decimal_to_Binary_Number.pdb

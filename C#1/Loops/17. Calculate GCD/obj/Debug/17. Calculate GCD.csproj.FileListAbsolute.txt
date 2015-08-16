@@ -1,0 +1,6 @@
+D:\Visual Studio\Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe.config
+D:\Visual Studio\Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe
+D:\Visual Studio\Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.pdb
+D:\Visual Studio\Loops\17. Calculate GCD\obj\Debug\17. Calculate GCD.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Loops\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.exe
+D:\Visual Studio\Loops\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.pdb

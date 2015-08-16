@@ -1,0 +1,6 @@
+D:\Visual Studio\Operators-and-Expressions\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.exe.config
+D:\Visual Studio\Operators-and-Expressions\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.exe
+D:\Visual Studio\Operators-and-Expressions\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.pdb
+D:\Visual Studio\Operators-and-Expressions\BitsExchangeAdvanced\obj\Debug\BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Operators-and-Expressions\BitsExchangeAdvanced\obj\Debug\BitsExchangeAdvanced.exe
+D:\Visual Studio\Operators-and-Expressions\BitsExchangeAdvanced\obj\Debug\BitsExchangeAdvanced.pdb

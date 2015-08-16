@@ -1,0 +1,5 @@
+D:\Visual Studio\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Visual Studio\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Visual Studio\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Visual Studio\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Visual Studio\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\PrintNumbers.pdb

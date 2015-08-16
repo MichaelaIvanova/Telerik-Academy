@@ -1,0 +1,6 @@
+D:\Visual Studio\Primitive-Data-Types\ExchangeVariables\bin\Debug\ExchangeVariables.exe.config
+D:\Visual Studio\Primitive-Data-Types\ExchangeVariables\bin\Debug\ExchangeVariables.exe
+D:\Visual Studio\Primitive-Data-Types\ExchangeVariables\bin\Debug\ExchangeVariables.pdb
+D:\Visual Studio\Primitive-Data-Types\ExchangeVariables\obj\Debug\ExchangeVariables.exe
+D:\Visual Studio\Primitive-Data-Types\ExchangeVariables\obj\Debug\ExchangeVariables.pdb
+D:\Visual Studio\Primitive-Data-Types\ExchangeVariables\obj\Debug\ExchangeVariables.csprojResolveAssemblyReference.cache

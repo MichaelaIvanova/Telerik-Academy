@@ -1,0 +1,6 @@
+D:\Visual Studio\Conditional-Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+D:\Visual Studio\Conditional-Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+D:\Visual Studio\Conditional-Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+D:\Visual Studio\Conditional-Statements\11. Number as Words\obj\Debug\11. Number as Words.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Conditional-Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+D:\Visual Studio\Conditional-Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb

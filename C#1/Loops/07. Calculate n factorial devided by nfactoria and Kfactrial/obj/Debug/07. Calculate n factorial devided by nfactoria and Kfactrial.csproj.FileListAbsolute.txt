@@ -1,0 +1,5 @@
+D:\Visual Studio\Loops\07. Calculate n factorial devided by nfactoria and Kfactrial\bin\Debug\_07.Calculate_n_factorial_devided_by_nfactoria_and_Kfactrial.exe.config
+D:\Visual Studio\Loops\07. Calculate n factorial devided by nfactoria and Kfactrial\bin\Debug\_07.Calculate_n_factorial_devided_by_nfactoria_and_Kfactrial.exe
+D:\Visual Studio\Loops\07. Calculate n factorial devided by nfactoria and Kfactrial\bin\Debug\_07.Calculate_n_factorial_devided_by_nfactoria_and_Kfactrial.pdb
+D:\Visual Studio\Loops\07. Calculate n factorial devided by nfactoria and Kfactrial\obj\Debug\_07.Calculate_n_factorial_devided_by_nfactoria_and_Kfactrial.exe
+D:\Visual Studio\Loops\07. Calculate n factorial devided by nfactoria and Kfactrial\obj\Debug\_07.Calculate_n_factorial_devided_by_nfactoria_and_Kfactrial.pdb

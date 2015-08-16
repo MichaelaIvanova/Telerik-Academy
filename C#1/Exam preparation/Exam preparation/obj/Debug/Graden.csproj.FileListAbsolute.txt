@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\Exam preparation\bin\Debug\Exam preparation.exe.config
+D:\Visual Studio\Exam preparation\Exam preparation\bin\Debug\Exam preparation.exe
+D:\Visual Studio\Exam preparation\Exam preparation\bin\Debug\Exam preparation.pdb
+D:\Visual Studio\Exam preparation\Exam preparation\obj\Debug\Graden.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\Exam preparation\obj\Debug\Exam preparation.exe
+D:\Visual Studio\Exam preparation\Exam preparation\obj\Debug\Exam preparation.pdb

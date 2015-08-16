@@ -1,0 +1,3 @@
+D:\Visual Studio\Operators-and-Expressions\ThirdDigit7\bin\Debug\ThirdDigit7.exe.config
+D:\Visual Studio\Operators-and-Expressions\ThirdDigit7\obj\Debug\ThirdDigit7.exe
+D:\Visual Studio\Operators-and-Expressions\ThirdDigit7\obj\Debug\ThirdDigit7.pdb

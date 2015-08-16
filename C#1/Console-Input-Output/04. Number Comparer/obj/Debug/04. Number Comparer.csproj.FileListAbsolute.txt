@@ -1,0 +1,5 @@
+D:\Visual Studio\Console-Input-Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+D:\Visual Studio\Console-Input-Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+D:\Visual Studio\Console-Input-Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+D:\Visual Studio\Console-Input-Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+D:\Visual Studio\Console-Input-Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb

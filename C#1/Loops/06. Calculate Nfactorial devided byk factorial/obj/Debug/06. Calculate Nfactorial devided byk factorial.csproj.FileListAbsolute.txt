@@ -1,0 +1,5 @@
+D:\Visual Studio\Loops\06. Calculate Nfactorial devided byk factorial\bin\Debug\_06.Calculate_Nfactorial_devided_byk_factorial.exe.config
+D:\Visual Studio\Loops\06. Calculate Nfactorial devided byk factorial\bin\Debug\_06.Calculate_Nfactorial_devided_byk_factorial.exe
+D:\Visual Studio\Loops\06. Calculate Nfactorial devided byk factorial\bin\Debug\_06.Calculate_Nfactorial_devided_byk_factorial.pdb
+D:\Visual Studio\Loops\06. Calculate Nfactorial devided byk factorial\obj\Debug\_06.Calculate_Nfactorial_devided_byk_factorial.exe
+D:\Visual Studio\Loops\06. Calculate Nfactorial devided byk factorial\obj\Debug\_06.Calculate_Nfactorial_devided_byk_factorial.pdb

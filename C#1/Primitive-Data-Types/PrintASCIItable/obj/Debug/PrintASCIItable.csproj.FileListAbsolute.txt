@@ -1,0 +1,9 @@
+D:\Visual Studio\Primitive-Data-Types\PrintASCIItable\bin\Debug\PrintASCIItable.exe.config
+D:\Visual Studio\Primitive-Data-Types\PrintASCIItable\bin\Debug\PrintASCIItable.exe
+D:\Visual Studio\Primitive-Data-Types\PrintASCIItable\bin\Debug\PrintASCIItable.pdb
+D:\Visual Studio\Primitive-Data-Types\PrintASCIItable\obj\Debug\PrintASCIItable.exe
+D:\Visual Studio\Primitive-Data-Types\PrintASCIItable\obj\Debug\PrintASCIItable.pdb
+D:\Visual Studio\Primitive-Data-Types\PrintASCIItable\obj\Debug\PrintASCIItable.csprojResolveAssemblyReference.cache
+D:\Visual Studio\C#1\Primitive-Data-Types\PrintASCIItable\bin\Debug\PrintASCIItable.exe.config
+D:\Visual Studio\C#1\Primitive-Data-Types\PrintASCIItable\obj\Debug\PrintASCIItable.exe
+D:\Visual Studio\C#1\Primitive-Data-Types\PrintASCIItable\obj\Debug\PrintASCIItable.pdb

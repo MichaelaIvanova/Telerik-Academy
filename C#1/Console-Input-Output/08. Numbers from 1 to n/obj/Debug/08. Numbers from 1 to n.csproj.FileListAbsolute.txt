@@ -1,0 +1,5 @@
+D:\Visual Studio\Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+D:\Visual Studio\Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+D:\Visual Studio\Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+D:\Visual Studio\Console-Input-Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+D:\Visual Studio\Console-Input-Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

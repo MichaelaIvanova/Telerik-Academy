@@ -1,0 +1,5 @@
+D:\Visual Studio\Loops\15. Hexadecimal to Decimal Number\bin\Debug\_15.Hexadecimal_to_Decimal_Number.exe.config
+D:\Visual Studio\Loops\15. Hexadecimal to Decimal Number\bin\Debug\_15.Hexadecimal_to_Decimal_Number.exe
+D:\Visual Studio\Loops\15. Hexadecimal to Decimal Number\bin\Debug\_15.Hexadecimal_to_Decimal_Number.pdb
+D:\Visual Studio\Loops\15. Hexadecimal to Decimal Number\obj\Debug\_15.Hexadecimal_to_Decimal_Number.exe
+D:\Visual Studio\Loops\15. Hexadecimal to Decimal Number\obj\Debug\_15.Hexadecimal_to_Decimal_Number.pdb

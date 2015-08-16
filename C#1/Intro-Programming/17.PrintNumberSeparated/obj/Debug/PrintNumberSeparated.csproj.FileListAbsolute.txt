@@ -1,0 +1,6 @@
+D:\Visual Studio\Intro-Programming-Homework\PrintNumberSeparated\bin\Debug\PrintNumberSeparated.exe.config
+D:\Visual Studio\Intro-Programming-Homework\PrintNumberSeparated\bin\Debug\PrintNumberSeparated.exe
+D:\Visual Studio\Intro-Programming-Homework\PrintNumberSeparated\bin\Debug\PrintNumberSeparated.pdb
+D:\Visual Studio\Intro-Programming-Homework\PrintNumberSeparated\obj\Debug\PrintNumberSeparated.exe
+D:\Visual Studio\Intro-Programming-Homework\PrintNumberSeparated\obj\Debug\PrintNumberSeparated.pdb
+D:\Visual Studio\Intro-Programming-Homework\PrintNumberSeparated\obj\Debug\PrintNumberSeparated.csprojResolveAssemblyReference.cache

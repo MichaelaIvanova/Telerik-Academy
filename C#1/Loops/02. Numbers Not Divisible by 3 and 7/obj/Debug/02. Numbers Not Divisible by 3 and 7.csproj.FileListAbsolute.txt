@@ -1,0 +1,6 @@
+D:\Visual Studio\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe.config
+D:\Visual Studio\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+D:\Visual Studio\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb
+D:\Visual Studio\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\02. Numbers Not Divisible by 3 and 7.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+D:\Visual Studio\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb

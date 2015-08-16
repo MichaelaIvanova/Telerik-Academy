@@ -1,0 +1,9 @@
+D:\Visual Studio\Primitive-Data-Types\Primitive-Data-Types\bin\Debug\Primitive-Data-Types.exe.config
+D:\Visual Studio\Primitive-Data-Types\Primitive-Data-Types\bin\Debug\Primitive-Data-Types.exe
+D:\Visual Studio\Primitive-Data-Types\Primitive-Data-Types\bin\Debug\Primitive-Data-Types.pdb
+D:\Visual Studio\Primitive-Data-Types\Primitive-Data-Types\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Primitive-Data-Types\Primitive-Data-Types\obj\Debug\Primitive-Data-Types.exe
+D:\Visual Studio\Primitive-Data-Types\Primitive-Data-Types\obj\Debug\Primitive-Data-Types.pdb
+D:\Visual Studio\C#1\Primitive-Data-Types\Primitive-Data-Types\bin\Debug\Primitive-Data-Types.exe.config
+D:\Visual Studio\C#1\Primitive-Data-Types\Primitive-Data-Types\obj\Debug\Primitive-Data-Types.exe
+D:\Visual Studio\C#1\Primitive-Data-Types\Primitive-Data-Types\obj\Debug\Primitive-Data-Types.pdb

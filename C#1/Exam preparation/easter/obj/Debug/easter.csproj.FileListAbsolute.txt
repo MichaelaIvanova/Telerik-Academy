@@ -1,0 +1,5 @@
+D:\Visual Studio\Exam preparation\easter\bin\Debug\easter.exe.config
+D:\Visual Studio\Exam preparation\easter\bin\Debug\easter.exe
+D:\Visual Studio\Exam preparation\easter\bin\Debug\easter.pdb
+D:\Visual Studio\Exam preparation\easter\obj\Debug\easter.exe
+D:\Visual Studio\Exam preparation\easter\obj\Debug\easter.pdb

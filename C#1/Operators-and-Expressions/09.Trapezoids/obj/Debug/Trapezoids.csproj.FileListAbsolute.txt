@@ -1,0 +1,2 @@
+D:\Visual Studio\Operators-and-Expressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\Visual Studio\Operators-and-Expressions\09.Trapezoids\bin\Debug\Trapezoids.exe.config

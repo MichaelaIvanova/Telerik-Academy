@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+D:\Visual Studio\Exam preparation\CoffeMachine\bin\Debug\CoffeMachine.exe
+D:\Visual Studio\Exam preparation\CoffeMachine\bin\Debug\CoffeMachine.pdb
+D:\Visual Studio\Exam preparation\CoffeMachine\obj\Debug\CoffeMachine.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+D:\Visual Studio\Exam preparation\CoffeMachine\obj\Debug\CoffeMachine.pdb

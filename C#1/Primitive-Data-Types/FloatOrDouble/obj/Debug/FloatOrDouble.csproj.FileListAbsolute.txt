@@ -1,0 +1,5 @@
+D:\Visual Studio\Primitive-Data-Types\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\Visual Studio\Primitive-Data-Types\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\Visual Studio\Primitive-Data-Types\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\Visual Studio\Primitive-Data-Types\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\Visual Studio\Primitive-Data-Types\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

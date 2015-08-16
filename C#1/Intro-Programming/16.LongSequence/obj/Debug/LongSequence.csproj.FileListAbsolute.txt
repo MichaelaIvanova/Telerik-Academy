@@ -1,0 +1,6 @@
+D:\Visual Studio\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Visual Studio\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe
+D:\Visual Studio\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.pdb
+D:\Visual Studio\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+D:\Visual Studio\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb
+D:\Visual Studio\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.csprojResolveAssemblyReference.cache

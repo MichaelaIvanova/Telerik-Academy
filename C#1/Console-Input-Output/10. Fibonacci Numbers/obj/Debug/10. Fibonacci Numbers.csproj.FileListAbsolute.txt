@@ -1,0 +1,5 @@
+D:\Visual Studio\Console-Input-Output\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe.config
+D:\Visual Studio\Console-Input-Output\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe
+D:\Visual Studio\Console-Input-Output\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.pdb
+D:\Visual Studio\Console-Input-Output\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.exe
+D:\Visual Studio\Console-Input-Output\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.pdb

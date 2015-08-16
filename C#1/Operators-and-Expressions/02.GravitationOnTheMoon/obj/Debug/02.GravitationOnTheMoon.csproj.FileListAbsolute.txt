@@ -1,0 +1,5 @@
+D:\Visual Studio\Operators-and-Expressions\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\Visual Studio\Operators-and-Expressions\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\Visual Studio\Operators-and-Expressions\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\Visual Studio\Operators-and-Expressions\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\Visual Studio\Operators-and-Expressions\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

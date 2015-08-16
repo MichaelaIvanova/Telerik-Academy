@@ -1,0 +1,5 @@
+D:\Visual Studio\Intro-Programming-Homework\08.Sqr12345\bin\Debug\Sqr12345.exe.config
+D:\Visual Studio\Intro-Programming-Homework\08.Sqr12345\obj\Debug\Sqr12345.exe
+D:\Visual Studio\Intro-Programming-Homework\08.Sqr12345\obj\Debug\Sqr12345.pdb
+D:\Visual Studio\Intro-Programming-Homework\08.Sqr12345\bin\Debug\Sqr12345.exe
+D:\Visual Studio\Intro-Programming-Homework\08.Sqr12345\bin\Debug\Sqr12345.pdb

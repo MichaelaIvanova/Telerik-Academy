@@ -1,0 +1,5 @@
+D:\Visual Studio\Intro-Programming-Homework\07.PrintFirstLastNameSeparated\bin\Debug\PrintFirstLastNameSeparated.exe.config
+D:\Visual Studio\Intro-Programming-Homework\07.PrintFirstLastNameSeparated\obj\Debug\PrintFirstLastNameSeparated.exe
+D:\Visual Studio\Intro-Programming-Homework\07.PrintFirstLastNameSeparated\obj\Debug\PrintFirstLastNameSeparated.pdb
+D:\Visual Studio\Intro-Programming-Homework\07.PrintFirstLastNameSeparated\bin\Debug\PrintFirstLastNameSeparated.exe
+D:\Visual Studio\Intro-Programming-Homework\07.PrintFirstLastNameSeparated\bin\Debug\PrintFirstLastNameSeparated.pdb

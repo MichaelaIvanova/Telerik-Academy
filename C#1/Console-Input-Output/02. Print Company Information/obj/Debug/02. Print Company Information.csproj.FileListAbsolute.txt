@@ -1,0 +1,6 @@
+D:\Visual Studio\Console-Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe.config
+D:\Visual Studio\Console-Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+D:\Visual Studio\Console-Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+D:\Visual Studio\Console-Input-Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+D:\Visual Studio\Console-Input-Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb
+D:\Visual Studio\Console-Input-Output\02. Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache

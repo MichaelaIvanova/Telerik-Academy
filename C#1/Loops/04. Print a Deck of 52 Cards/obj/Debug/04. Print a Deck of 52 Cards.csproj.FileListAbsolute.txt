@@ -1,0 +1,5 @@
+D:\Visual Studio\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe.config
+D:\Visual Studio\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe
+D:\Visual Studio\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.pdb
+D:\Visual Studio\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.exe
+D:\Visual Studio\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.pdb

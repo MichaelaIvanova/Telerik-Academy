@@ -1,0 +1,3 @@
+D:\Visual Studio\Loops\05. Calculate 1\bin\Debug\_05.Calculate_1.exe.config
+D:\Visual Studio\Loops\05. Calculate 1\obj\Debug\_05.Calculate_1.exe
+D:\Visual Studio\Loops\05. Calculate 1\obj\Debug\_05.Calculate_1.pdb

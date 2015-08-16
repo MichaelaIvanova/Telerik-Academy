@@ -1,0 +1,1 @@
+D:\Visual Studio\Exam preparation\CardWars\bin\Debug\CardWars.exe.config

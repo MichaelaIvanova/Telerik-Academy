@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\Enigmation\bin\Debug\Enigmation.exe.config
+D:\Visual Studio\Exam preparation\Enigmation\obj\Debug\Enigmation.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\Enigmation\bin\Debug\Enigmation.exe
+D:\Visual Studio\Exam preparation\Enigmation\bin\Debug\Enigmation.pdb
+D:\Visual Studio\Exam preparation\Enigmation\obj\Debug\Enigmation.exe
+D:\Visual Studio\Exam preparation\Enigmation\obj\Debug\Enigmation.pdb

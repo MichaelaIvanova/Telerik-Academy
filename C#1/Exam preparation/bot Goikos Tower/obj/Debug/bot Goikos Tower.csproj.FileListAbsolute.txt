@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\bot Goikos Tower\bin\Debug\bot Goikos Tower.exe.config
+D:\Visual Studio\Exam preparation\bot Goikos Tower\obj\Debug\bot Goikos Tower.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\bot Goikos Tower\bin\Debug\bot Goikos Tower.exe
+D:\Visual Studio\Exam preparation\bot Goikos Tower\bin\Debug\bot Goikos Tower.pdb
+D:\Visual Studio\Exam preparation\bot Goikos Tower\obj\Debug\bot Goikos Tower.exe
+D:\Visual Studio\Exam preparation\bot Goikos Tower\obj\Debug\bot Goikos Tower.pdb

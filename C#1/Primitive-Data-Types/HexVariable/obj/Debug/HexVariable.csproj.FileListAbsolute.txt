@@ -1,0 +1,8 @@
+D:\Visual Studio\Primitive-Data-Types\HexVariable\bin\Debug\HexVariable.exe.config
+D:\Visual Studio\Primitive-Data-Types\HexVariable\bin\Debug\HexVariable.exe
+D:\Visual Studio\Primitive-Data-Types\HexVariable\bin\Debug\HexVariable.pdb
+D:\Visual Studio\Primitive-Data-Types\HexVariable\obj\Debug\HexVariable.exe
+D:\Visual Studio\Primitive-Data-Types\HexVariable\obj\Debug\HexVariable.pdb
+D:\Visual Studio\C#1\Primitive-Data-Types\HexVariable\bin\Debug\HexVariable.exe.config
+D:\Visual Studio\C#1\Primitive-Data-Types\HexVariable\obj\Debug\HexVariable.exe
+D:\Visual Studio\C#1\Primitive-Data-Types\HexVariable\obj\Debug\HexVariable.pdb

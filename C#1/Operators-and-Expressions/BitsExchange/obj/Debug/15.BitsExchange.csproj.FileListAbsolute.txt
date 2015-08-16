@@ -1,0 +1,3 @@
+D:\Visual Studio\Operators-and-Expressions\BitsExchange\bin\Debug\BitsExchange.exe.config
+D:\Visual Studio\Operators-and-Expressions\BitsExchange\obj\Debug\BitsExchange.exe
+D:\Visual Studio\Operators-and-Expressions\BitsExchange\obj\Debug\BitsExchange.pdb

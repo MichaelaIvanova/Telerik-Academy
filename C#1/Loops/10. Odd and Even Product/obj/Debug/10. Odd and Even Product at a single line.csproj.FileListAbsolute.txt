@@ -1,0 +1,3 @@
+D:\Visual Studio\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+D:\Visual Studio\Loops\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.exe
+D:\Visual Studio\Loops\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.pdb

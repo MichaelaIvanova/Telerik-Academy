@@ -1,0 +1,6 @@
+D:\Visual Studio\Primitive-Data-Types\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Visual Studio\Primitive-Data-Types\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Visual Studio\Primitive-Data-Types\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Visual Studio\Primitive-Data-Types\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Visual Studio\Primitive-Data-Types\EmployeeData\obj\Debug\EmployeeData.pdb
+D:\Visual Studio\Primitive-Data-Types\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache

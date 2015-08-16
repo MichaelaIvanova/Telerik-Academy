@@ -1,0 +1,5 @@
+D:\Visual Studio\Console-Input-Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe.config
+D:\Visual Studio\Console-Input-Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe
+D:\Visual Studio\Console-Input-Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.pdb
+D:\Visual Studio\Console-Input-Output\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.exe
+D:\Visual Studio\Console-Input-Output\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.pdb

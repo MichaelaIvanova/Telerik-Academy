@@ -1,0 +1,6 @@
+D:\Visual Studio\Conditional-Statements\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe.config
+D:\Visual Studio\Conditional-Statements\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe
+D:\Visual Studio\Conditional-Statements\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.pdb
+D:\Visual Studio\Conditional-Statements\06. The Biggest of Five Numbers\obj\Debug\06. The Biggest of Five Numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Conditional-Statements\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.exe
+D:\Visual Studio\Conditional-Statements\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.pdb

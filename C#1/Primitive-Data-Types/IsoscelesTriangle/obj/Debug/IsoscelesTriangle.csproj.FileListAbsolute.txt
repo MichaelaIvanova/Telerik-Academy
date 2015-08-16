@@ -1,0 +1,5 @@
+D:\Visual Studio\Primitive-Data-Types\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\Visual Studio\Primitive-Data-Types\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\Visual Studio\Primitive-Data-Types\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\Visual Studio\Primitive-Data-Types\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\Visual Studio\Primitive-Data-Types\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Loops\18. Trailing Zeroes in N!\bin\Debug\_18.Trailing_Zeroes_in_N_.exe.config
+D:\Visual Studio\Loops\18. Trailing Zeroes in N!\bin\Debug\_18.Trailing_Zeroes_in_N_.exe
+D:\Visual Studio\Loops\18. Trailing Zeroes in N!\bin\Debug\_18.Trailing_Zeroes_in_N_.pdb
+D:\Visual Studio\Loops\18. Trailing Zeroes in N!\obj\Debug\18. Trailing Zeroes in N!.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Loops\18. Trailing Zeroes in N!\obj\Debug\_18.Trailing_Zeroes_in_N_.exe
+D:\Visual Studio\Loops\18. Trailing Zeroes in N!\obj\Debug\_18.Trailing_Zeroes_in_N_.pdb

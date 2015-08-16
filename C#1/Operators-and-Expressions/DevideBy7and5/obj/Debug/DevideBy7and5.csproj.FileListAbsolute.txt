@@ -1,0 +1,5 @@
+D:\Visual Studio\Operators-and-Expressions\DevideBy7and5\bin\Debug\DevideBy7and5.exe.config
+D:\Visual Studio\Operators-and-Expressions\DevideBy7and5\bin\Debug\DevideBy7and5.exe
+D:\Visual Studio\Operators-and-Expressions\DevideBy7and5\bin\Debug\DevideBy7and5.pdb
+D:\Visual Studio\Operators-and-Expressions\DevideBy7and5\obj\Debug\DevideBy7and5.exe
+D:\Visual Studio\Operators-and-Expressions\DevideBy7and5\obj\Debug\DevideBy7and5.pdb

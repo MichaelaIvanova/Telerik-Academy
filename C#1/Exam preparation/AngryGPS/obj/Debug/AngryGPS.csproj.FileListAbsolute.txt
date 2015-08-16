@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\AngryGPS\bin\Debug\AngryGPS.exe.config
+D:\Visual Studio\Exam preparation\AngryGPS\bin\Debug\AngryGPS.exe
+D:\Visual Studio\Exam preparation\AngryGPS\bin\Debug\AngryGPS.pdb
+D:\Visual Studio\Exam preparation\AngryGPS\obj\Debug\AngryGPS.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\AngryGPS\obj\Debug\AngryGPS.exe
+D:\Visual Studio\Exam preparation\AngryGPS\obj\Debug\AngryGPS.pdb

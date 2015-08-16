@@ -1,0 +1,6 @@
+D:\Visual Studio\Exam preparation\TheHorror\bin\Debug\TheHorror.exe.config
+D:\Visual Studio\Exam preparation\TheHorror\bin\Debug\TheHorror.exe
+D:\Visual Studio\Exam preparation\TheHorror\bin\Debug\TheHorror.pdb
+D:\Visual Studio\Exam preparation\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam preparation\TheHorror\obj\Debug\TheHorror.exe
+D:\Visual Studio\Exam preparation\TheHorror\obj\Debug\TheHorror.pdb

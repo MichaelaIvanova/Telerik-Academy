@@ -1,0 +1,3 @@
+D:\Visual Studio\Intro-Programming-Homework\14.CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+D:\Visual Studio\Intro-Programming-Homework\14.CurrentDateTime\obj\Debug\CurrentDateTime.exe
+D:\Visual Studio\Intro-Programming-Homework\14.CurrentDateTime\obj\Debug\CurrentDateTime.pdb

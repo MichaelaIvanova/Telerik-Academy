@@ -1,0 +1,5 @@
+D:\Visual Studio\Operators-and-Expressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+D:\Visual Studio\Operators-and-Expressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+D:\Visual Studio\Operators-and-Expressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+D:\Visual Studio\Operators-and-Expressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+D:\Visual Studio\Operators-and-Expressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

@@ -1,0 +1,34 @@
+
+Problem 12. Development Environments
+* Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+* Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+1. Eclipse - Free
+
+Many development frameworks are built on Eclipse, a free, open-source editor that was initially a Java environment but a variety of plug-ins have extended its capabilities considerably.  Languages Supported: C, C++, Python, Perl, PHP, Java, Ruby and more
+
+2. NetBeans - Free
+An intuitive, drag-and-drop interface with project templates, binary and static libraries, and many useful functions to make your life simpler, NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files, with GNU Debugger Integration and code assistance, NetBeans is a functional IDE for editing existing projects, building on templates or building from scratch on most leading platforms. 
+Languages Supported: C, C++, C++11, Fortan, Assembler
+
+3. Microsoft Visual Studio – Paid
+Microsoft Visual Studio offers a multitude of editions for developing, testing, and deploying applications for the web, desktop, mobile, and even game consoles. With a plethora of testing and compatibility tools, you can test on virtual machines, tap into the functionality of BrowserStack to see what your app looks like across more than 300 browsers, run compatibility reports to identify patterns and issues between browsers and so much more.
+Languages Supported: Variety of languages supported across products
+Ajax, ASP.NET, XAML, JavaScript, dynamic HTML, DHTML, Visual Basic, Visual C#, Visual C++, Visual F#, JScript
+
+4. Xcode IDE
+
+Xcode IDE is a component of Xcode 5, a complete set of tools for building and deploying apps in the Apple environment. It’s integrated with the Cocoa and Cocoa Touch frameworks for streamlined development of apps for the Mac, iPhone and iPad. It’s designed for a seamless workflow to move from start to finish in a single interface, with built-in communication with the Apple Developer website for one-click enablement of services like Game Center or Passbook, allowing you to create more robust, highly-functional apps in a fraction of the time.
+Languages Supported: AppleScript, C, C++, Objective-C, Java
+
+5. Eric Python IDE – Free
+A full-featured Ruby and Python editor and IDE, Eric Python IDE is written using Python and is based on the cross platform Qt GUI Toolkit. Editor control is enabled through Scintilla integration for robust flexibility. It’s intended for use both as a simple editor for last-minute and stand-alone editing tasks, as well as a professional project management tool.
+Languages Supported: Ruby, Python
+
+6.  Kantharos IDE - free
+A rapid PHP development environment, Kantharos IDE can be used for offline system scripting needs, including code execution time analysis, custom database maintenance, manual web page queries and more. Single-scipt oriented and portable, Kantharos IDE is lightweight and focused but a useful tool if you have offline scripting needs.
+Languages Supported: PHP
+
+7. Xamarin Studio
+Xamarin Studio is a sophisticated IDE for cross-platform mobile application development. Build apps for iOS, Android and Mac, even exploring unfamiliar APIs with code completion. It includes a comprehensive Android UI developer for building the most functional, user-friendly interfaces — without touching a line of XML. Xcode Interface Builder integration enables you to tap into Apple’s interface tools for building iOS apps. 
+Languages Supported: C#, extensible for additional language support 
