@@ -1,0 +1,6 @@
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\02. IEnumerable extensions\bin\Debug\_02.IEnumerable_extensions.exe.config
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\02. IEnumerable extensions\bin\Debug\_02.IEnumerable_extensions.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\02. IEnumerable extensions\bin\Debug\_02.IEnumerable_extensions.pdb
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\02. IEnumerable extensions\obj\Debug\02. IEnumerable extensions.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\02. IEnumerable extensions\obj\Debug\_02.IEnumerable_extensions.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\02. IEnumerable extensions\obj\Debug\_02.IEnumerable_extensions.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe.config
+D:\Visual Studio\Arrays\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe
+D:\Visual Studio\Arrays\15. Prime numbers\bin\Debug\_15.Prime_numbers.pdb
+D:\Visual Studio\Arrays\15. Prime numbers\obj\Debug\15. Prime numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Arrays\15. Prime numbers\obj\Debug\_15.Prime_numbers.exe
+D:\Visual Studio\Arrays\15. Prime numbers\obj\Debug\_15.Prime_numbers.pdb

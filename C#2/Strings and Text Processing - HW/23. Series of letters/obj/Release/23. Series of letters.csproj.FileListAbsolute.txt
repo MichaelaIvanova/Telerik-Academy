@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\23. Series of letters\bin\Release\_23.Series_of_letters.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\23. Series of letters\bin\Release\_23.Series_of_letters.exe
+D:\Visual Studio\Strings and Text Processing - HW\23. Series of letters\bin\Release\_23.Series_of_letters.pdb
+D:\Visual Studio\Strings and Text Processing - HW\23. Series of letters\obj\Release\_23.Series_of_letters.exe
+D:\Visual Studio\Strings and Text Processing - HW\23. Series of letters\obj\Release\_23.Series_of_letters.pdb

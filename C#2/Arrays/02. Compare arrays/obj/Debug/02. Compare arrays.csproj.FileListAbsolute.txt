@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe.config
+D:\Visual Studio\Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe
+D:\Visual Studio\Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.pdb
+D:\Visual Studio\Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.exe
+D:\Visual Studio\Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.pdb
+D:\Visual Studio\Arrays\02. Compare arrays\obj\Debug\02. Compare arrays.csprojResolveAssemblyReference.cache

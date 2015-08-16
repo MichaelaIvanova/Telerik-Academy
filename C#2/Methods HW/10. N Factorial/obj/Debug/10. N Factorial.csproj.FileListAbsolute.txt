@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\10. N Factorial\bin\Debug\_10.N_Factorial.exe.config
+D:\Visual Studio\Methods HW\10. N Factorial\bin\Debug\_10.N_Factorial.exe
+D:\Visual Studio\Methods HW\10. N Factorial\bin\Debug\_10.N_Factorial.pdb
+D:\Visual Studio\Methods HW\10. N Factorial\obj\Debug\10. N Factorial.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\10. N Factorial\obj\Debug\_10.N_Factorial.exe
+D:\Visual Studio\Methods HW\10. N Factorial\obj\Debug\_10.N_Factorial.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.exe.config
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.pdb
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\06. Divisible by 7 and 3\obj\Debug\_06.Divisible_by_7_and_3.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\06. Divisible by 7 and 3\obj\Debug\_06.Divisible_by_7_and_3.pdb

@@ -1,0 +1,9 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\bin\Debug\MultyDimentionalArrays Homework.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\bin\Debug\MultyDimentionalArrays Homework.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\bin\Debug\MultyDimentionalArrays Homework.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\obj\Debug\01. A fill the matrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\obj\Debug\MultyDimentionalArrays Homework.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\obj\Debug\MultyDimentionalArrays Homework.pdb
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\bin\Debug\MultyDimentionalArrays Homework.exe.config
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\obj\Debug\MultyDimentionalArrays Homework.exe
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\MultyDimentionalArrays Homework\obj\Debug\MultyDimentionalArrays Homework.pdb

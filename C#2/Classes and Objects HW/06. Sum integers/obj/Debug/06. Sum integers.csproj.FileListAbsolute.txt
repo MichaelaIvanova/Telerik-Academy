@@ -1,0 +1,5 @@
+D:\Visual Studio\Classes and Objects HW\06. Sum integers\bin\Debug\_06.Sum_integers.exe.config
+D:\Visual Studio\Classes and Objects HW\06. Sum integers\bin\Debug\_06.Sum_integers.exe
+D:\Visual Studio\Classes and Objects HW\06. Sum integers\bin\Debug\_06.Sum_integers.pdb
+D:\Visual Studio\Classes and Objects HW\06. Sum integers\obj\Debug\_06.Sum_integers.exe
+D:\Visual Studio\Classes and Objects HW\06. Sum integers\obj\Debug\_06.Sum_integers.pdb

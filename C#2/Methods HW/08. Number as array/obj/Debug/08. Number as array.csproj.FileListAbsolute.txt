@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\08. Number as array\bin\Debug\_08.Number_as_array.exe.config
+D:\Visual Studio\Methods HW\08. Number as array\bin\Debug\_08.Number_as_array.exe
+D:\Visual Studio\Methods HW\08. Number as array\bin\Debug\_08.Number_as_array.pdb
+D:\Visual Studio\Methods HW\08. Number as array\obj\Debug\08. Number as array.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\08. Number as array\obj\Debug\_08.Number_as_array.exe
+D:\Visual Studio\Methods HW\08. Number as array\obj\Debug\_08.Number_as_array.pdb

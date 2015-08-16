@@ -1,0 +1,5 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

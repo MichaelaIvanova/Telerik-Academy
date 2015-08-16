@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\Methods HW\bin\Debug\Methods HW.exe.config
+D:\Visual Studio\Methods HW\Methods HW\bin\Debug\Methods HW.exe
+D:\Visual Studio\Methods HW\Methods HW\bin\Debug\Methods HW.pdb
+D:\Visual Studio\Methods HW\Methods HW\obj\Debug\01. Say Hello.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\Methods HW\obj\Debug\Methods HW.exe
+D:\Visual Studio\Methods HW\Methods HW\obj\Debug\Methods HW.pdb

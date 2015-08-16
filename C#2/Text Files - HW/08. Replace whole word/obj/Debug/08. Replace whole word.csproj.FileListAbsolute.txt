@@ -1,0 +1,6 @@
+D:\Visual Studio\Text Files - HW\08. Replace whole word\bin\Debug\_08.Replace_whole_word.exe.config
+D:\Visual Studio\Text Files - HW\08. Replace whole word\bin\Debug\_08.Replace_whole_word.exe
+D:\Visual Studio\Text Files - HW\08. Replace whole word\bin\Debug\_08.Replace_whole_word.pdb
+D:\Visual Studio\Text Files - HW\08. Replace whole word\obj\Debug\08. Replace whole word.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\08. Replace whole word\obj\Debug\_08.Replace_whole_word.exe
+D:\Visual Studio\Text Files - HW\08. Replace whole word\obj\Debug\_08.Replace_whole_word.pdb

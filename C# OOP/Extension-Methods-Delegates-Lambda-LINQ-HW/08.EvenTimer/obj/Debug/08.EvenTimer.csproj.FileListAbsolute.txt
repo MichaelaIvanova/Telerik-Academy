@@ -1,0 +1,6 @@
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\08.EvenTimer\bin\Debug\08.EvenTimer.exe.config
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\08.EvenTimer\bin\Debug\08.EvenTimer.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\08.EvenTimer\bin\Debug\08.EvenTimer.pdb
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\08.EvenTimer\obj\Debug\08.EvenTimer.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\08.EvenTimer\obj\Debug\08.EvenTimer.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\08.EvenTimer\obj\Debug\08.EvenTimer.pdb

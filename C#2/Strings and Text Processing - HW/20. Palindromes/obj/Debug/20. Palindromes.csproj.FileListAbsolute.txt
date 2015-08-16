@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\20. Palindromes\bin\Debug\_20.Palindromes.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\20. Palindromes\bin\Debug\_20.Palindromes.exe
+D:\Visual Studio\Strings and Text Processing - HW\20. Palindromes\bin\Debug\_20.Palindromes.pdb
+D:\Visual Studio\Strings and Text Processing - HW\20. Palindromes\obj\Debug\20. Palindromes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\20. Palindromes\obj\Debug\_20.Palindromes.exe
+D:\Visual Studio\Strings and Text Processing - HW\20. Palindromes\obj\Debug\_20.Palindromes.pdb

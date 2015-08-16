@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\09. Forbidden words\bin\Debug\_09.Forbidden_words.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\09. Forbidden words\bin\Debug\_09.Forbidden_words.exe
+D:\Visual Studio\Strings and Text Processing - HW\09. Forbidden words\bin\Debug\_09.Forbidden_words.pdb
+D:\Visual Studio\Strings and Text Processing - HW\09. Forbidden words\obj\Debug\09. Forbidden words.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\09. Forbidden words\obj\Debug\_09.Forbidden_words.exe
+D:\Visual Studio\Strings and Text Processing - HW\09. Forbidden words\obj\Debug\_09.Forbidden_words.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe.config
+D:\Visual Studio\Methods HW\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe
+D:\Visual Studio\Methods HW\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.pdb
+D:\Visual Studio\Methods HW\06. First larger than neighbours\obj\Debug\06. First larger than neighbours.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.exe
+D:\Visual Studio\Methods HW\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.pdb

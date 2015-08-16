@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\21. Letters count\bin\Release\_21.Letters_count.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\21. Letters count\obj\Release\21. Letters count.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\21. Letters count\bin\Release\_21.Letters_count.exe
+D:\Visual Studio\Strings and Text Processing - HW\21. Letters count\bin\Release\_21.Letters_count.pdb
+D:\Visual Studio\Strings and Text Processing - HW\21. Letters count\obj\Release\_21.Letters_count.exe
+D:\Visual Studio\Strings and Text Processing - HW\21. Letters count\obj\Release\_21.Letters_count.pdb

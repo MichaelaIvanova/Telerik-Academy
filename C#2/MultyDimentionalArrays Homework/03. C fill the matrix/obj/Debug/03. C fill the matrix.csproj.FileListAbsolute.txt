@@ -1,0 +1,6 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\03. C fill the matrix\bin\Debug\_03.C_fill_the_matrix.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\03. C fill the matrix\bin\Debug\_03.C_fill_the_matrix.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\03. C fill the matrix\bin\Debug\_03.C_fill_the_matrix.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\03. C fill the matrix\obj\Debug\03. C fill the matrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\MultyDimentionalArrays Homework\03. C fill the matrix\obj\Debug\_03.C_fill_the_matrix.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\03. C fill the matrix\obj\Debug\_03.C_fill_the_matrix.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Classes and Objects HW\03. Day of week\bin\Debug\_03.Day_of_week.exe.config
+D:\Visual Studio\Classes and Objects HW\03. Day of week\bin\Debug\_03.Day_of_week.exe
+D:\Visual Studio\Classes and Objects HW\03. Day of week\bin\Debug\_03.Day_of_week.pdb
+D:\Visual Studio\Classes and Objects HW\03. Day of week\obj\Debug\03. Day of week.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Classes and Objects HW\03. Day of week\obj\Debug\_03.Day_of_week.exe
+D:\Visual Studio\Classes and Objects HW\03. Day of week\obj\Debug\_03.Day_of_week.pdb

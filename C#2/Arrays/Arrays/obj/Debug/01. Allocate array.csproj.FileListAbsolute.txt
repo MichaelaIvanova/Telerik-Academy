@@ -1,0 +1,12 @@
+D:\Visual Studio\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Visual Studio\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Visual Studio\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Visual Studio\Arrays\Arrays\obj\Debug\01. Allocate array.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Visual Studio\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Visual Studio\C#2HWMe\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Visual Studio\C#2HWMe\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Visual Studio\C#2HWMe\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\Arrays\obj\Debug\Arrays.pdb

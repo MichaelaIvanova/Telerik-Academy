@@ -1,0 +1,6 @@
+D:\Visual Studio\OOP Principles - Part 1 - HW\OOP Principles - Part 1 - HW\bin\Debug\OOP Principles - Part 1 - HW.exe.config
+D:\Visual Studio\OOP Principles - Part 1 - HW\OOP Principles - Part 1 - HW\bin\Debug\OOP Principles - Part 1 - HW.exe
+D:\Visual Studio\OOP Principles - Part 1 - HW\OOP Principles - Part 1 - HW\bin\Debug\OOP Principles - Part 1 - HW.pdb
+D:\Visual Studio\OOP Principles - Part 1 - HW\OOP Principles - Part 1 - HW\obj\Debug\1. School classes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOP Principles - Part 1 - HW\OOP Principles - Part 1 - HW\obj\Debug\OOP Principles - Part 1 - HW.exe
+D:\Visual Studio\OOP Principles - Part 1 - HW\OOP Principles - Part 1 - HW\obj\Debug\OOP Principles - Part 1 - HW.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Numeral Systems - HW\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe.config
+D:\Visual Studio\Numeral Systems - HW\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe
+D:\Visual Studio\Numeral Systems - HW\07. One system to any other\bin\Debug\_07.One_system_to_any_other.pdb
+D:\Visual Studio\Numeral Systems - HW\07. One system to any other\obj\Debug\_07.One_system_to_any_other.exe
+D:\Visual Studio\Numeral Systems - HW\07. One system to any other\obj\Debug\_07.One_system_to_any_other.pdb

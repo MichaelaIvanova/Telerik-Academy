@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\25. Extract text from HTML\bin\Release\_25.Extract_text_from_HTML.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\25. Extract text from HTML\bin\Release\_25.Extract_text_from_HTML.exe
+D:\Visual Studio\Strings and Text Processing - HW\25. Extract text from HTML\bin\Release\_25.Extract_text_from_HTML.pdb
+D:\Visual Studio\Strings and Text Processing - HW\25. Extract text from HTML\obj\Release\_25.Extract_text_from_HTML.exe
+D:\Visual Studio\Strings and Text Processing - HW\25. Extract text from HTML\obj\Release\_25.Extract_text_from_HTML.pdb

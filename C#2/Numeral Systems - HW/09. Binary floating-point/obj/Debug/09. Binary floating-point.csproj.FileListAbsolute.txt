@@ -1,0 +1,5 @@
+D:\Visual Studio\Numeral Systems - HW\09. Binary floating-point\bin\Debug\_09.Binary_floating_point.exe.config
+D:\Visual Studio\Numeral Systems - HW\09. Binary floating-point\bin\Debug\_09.Binary_floating_point.exe
+D:\Visual Studio\Numeral Systems - HW\09. Binary floating-point\bin\Debug\_09.Binary_floating_point.pdb
+D:\Visual Studio\Numeral Systems - HW\09. Binary floating-point\obj\Debug\_09.Binary_floating_point.exe
+D:\Visual Studio\Numeral Systems - HW\09. Binary floating-point\obj\Debug\_09.Binary_floating_point.pdb

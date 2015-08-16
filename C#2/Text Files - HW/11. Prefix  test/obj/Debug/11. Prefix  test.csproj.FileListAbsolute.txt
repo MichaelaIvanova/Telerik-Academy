@@ -1,0 +1,6 @@
+D:\Visual Studio\Text Files - HW\11. Prefix  test\bin\Debug\_11.Prefix__test.exe.config
+D:\Visual Studio\Text Files - HW\11. Prefix  test\bin\Debug\_11.Prefix__test.exe
+D:\Visual Studio\Text Files - HW\11. Prefix  test\bin\Debug\_11.Prefix__test.pdb
+D:\Visual Studio\Text Files - HW\11. Prefix  test\obj\Debug\11. Prefix  test.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\11. Prefix  test\obj\Debug\_11.Prefix__test.exe
+D:\Visual Studio\Text Files - HW\11. Prefix  test\obj\Debug\_11.Prefix__test.pdb

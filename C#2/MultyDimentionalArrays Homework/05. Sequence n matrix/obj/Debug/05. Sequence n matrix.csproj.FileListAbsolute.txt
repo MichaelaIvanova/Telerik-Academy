@@ -1,0 +1,9 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sequence n matrix\bin\Debug\_05.Sequence_n_matrix.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sequence n matrix\bin\Debug\_05.Sequence_n_matrix.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sequence n matrix\bin\Debug\_05.Sequence_n_matrix.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sequence n matrix\obj\Debug\05. Sequence n matrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sequence n matrix\obj\Debug\_05.Sequence_n_matrix.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sequence n matrix\obj\Debug\_05.Sequence_n_matrix.pdb
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\05. Sequence n matrix\bin\Debug\_05.Sequence_n_matrix.exe.config
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\05. Sequence n matrix\obj\Debug\_05.Sequence_n_matrix.exe
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\05. Sequence n matrix\obj\Debug\_05.Sequence_n_matrix.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\16. Date difference\bin\Debug\_16.Date_difference.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\16. Date difference\bin\Debug\_16.Date_difference.exe
+D:\Visual Studio\Strings and Text Processing - HW\16. Date difference\bin\Debug\_16.Date_difference.pdb
+D:\Visual Studio\Strings and Text Processing - HW\16. Date difference\obj\Debug\_16.Date_difference.exe
+D:\Visual Studio\Strings and Text Processing - HW\16. Date difference\obj\Debug\_16.Date_difference.pdb

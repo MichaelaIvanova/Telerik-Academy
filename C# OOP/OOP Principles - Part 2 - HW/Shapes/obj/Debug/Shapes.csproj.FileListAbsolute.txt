@@ -1,0 +1,7 @@
+D:\Visual Studio\OOP Principles - Part 2 - HW\OOP Principles - Part 2 - HW\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOP Principles - Part 2 - HW\Shapes\bin\Debug\OOP Principles - Part 2 - HW.exe.config
+D:\Visual Studio\OOP Principles - Part 2 - HW\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOP Principles - Part 2 - HW\Shapes\bin\Debug\OOP Principles - Part 2 - HW.exe
+D:\Visual Studio\OOP Principles - Part 2 - HW\Shapes\bin\Debug\OOP Principles - Part 2 - HW.pdb
+D:\Visual Studio\OOP Principles - Part 2 - HW\Shapes\obj\Debug\OOP Principles - Part 2 - HW.exe
+D:\Visual Studio\OOP Principles - Part 2 - HW\Shapes\obj\Debug\OOP Principles - Part 2 - HW.pdb

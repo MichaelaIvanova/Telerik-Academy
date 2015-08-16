@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays\practice\bin\Debug\practice.exe.config
+D:\Visual Studio\Arrays\practice\bin\Debug\practice.exe
+D:\Visual Studio\Arrays\practice\bin\Debug\practice.pdb
+D:\Visual Studio\Arrays\practice\obj\Debug\practice.exe
+D:\Visual Studio\Arrays\practice\obj\Debug\practice.pdb
+D:\Visual Studio\Arrays\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache

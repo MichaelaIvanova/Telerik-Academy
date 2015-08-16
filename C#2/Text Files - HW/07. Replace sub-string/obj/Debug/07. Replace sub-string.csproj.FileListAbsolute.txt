@@ -1,0 +1,5 @@
+D:\Visual Studio\Text Files - HW\07. Replace sub-string\bin\Debug\_07.Replace_sub_string.exe.config
+D:\Visual Studio\Text Files - HW\07. Replace sub-string\bin\Debug\_07.Replace_sub_string.exe
+D:\Visual Studio\Text Files - HW\07. Replace sub-string\bin\Debug\_07.Replace_sub_string.pdb
+D:\Visual Studio\Text Files - HW\07. Replace sub-string\obj\Debug\_07.Replace_sub_string.exe
+D:\Visual Studio\Text Files - HW\07. Replace sub-string\obj\Debug\_07.Replace_sub_string.pdb

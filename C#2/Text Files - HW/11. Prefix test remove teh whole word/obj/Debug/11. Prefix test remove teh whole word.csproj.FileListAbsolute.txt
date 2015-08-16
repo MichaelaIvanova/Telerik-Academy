@@ -1,0 +1,5 @@
+D:\Visual Studio\Text Files - HW\11. Prefix test remove teh whole word\bin\Debug\_11.Prefix_test_remove_teh_whole_word.exe.config
+D:\Visual Studio\Text Files - HW\11. Prefix test remove teh whole word\bin\Debug\_11.Prefix_test_remove_teh_whole_word.exe
+D:\Visual Studio\Text Files - HW\11. Prefix test remove teh whole word\bin\Debug\_11.Prefix_test_remove_teh_whole_word.pdb
+D:\Visual Studio\Text Files - HW\11. Prefix test remove teh whole word\obj\Debug\_11.Prefix_test_remove_teh_whole_word.exe
+D:\Visual Studio\Text Files - HW\11. Prefix test remove teh whole word\obj\Debug\_11.Prefix_test_remove_teh_whole_word.pdb

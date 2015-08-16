@@ -1,0 +1,9 @@
+D:\Visual Studio\Text Files - HW\Text Files - HW\bin\Debug\Text Files - HW.exe.config
+D:\Visual Studio\Text Files - HW\Text Files - HW\bin\Debug\Text Files - HW.exe
+D:\Visual Studio\Text Files - HW\Text Files - HW\bin\Debug\Text Files - HW.pdb
+D:\Visual Studio\Text Files - HW\Text Files - HW\obj\Debug\01. Odd line reader.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\Text Files - HW\obj\Debug\Text Files - HW.exe
+D:\Visual Studio\Text Files - HW\Text Files - HW\obj\Debug\Text Files - HW.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\Text Files - HW\bin\Debug\Text Files - HW.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\Text Files - HW\obj\Debug\Text Files - HW.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\Text Files - HW\obj\Debug\Text Files - HW.pdb

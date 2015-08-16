@@ -1,0 +1,6 @@
+D:\Visual Studio\Text Files - HW\10. Extract text from XML\bin\Debug\_10.Extract_text_from_XML.exe.config
+D:\Visual Studio\Text Files - HW\10. Extract text from XML\bin\Debug\_10.Extract_text_from_XML.exe
+D:\Visual Studio\Text Files - HW\10. Extract text from XML\bin\Debug\_10.Extract_text_from_XML.pdb
+D:\Visual Studio\Text Files - HW\10. Extract text from XML\obj\Debug\10. Extract text from XML.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\10. Extract text from XML\obj\Debug\_10.Extract_text_from_XML.exe
+D:\Visual Studio\Text Files - HW\10. Extract text from XML\obj\Debug\_10.Extract_text_from_XML.pdb

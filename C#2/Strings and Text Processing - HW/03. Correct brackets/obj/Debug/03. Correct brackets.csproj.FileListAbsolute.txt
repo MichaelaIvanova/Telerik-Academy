@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe
+D:\Visual Studio\Strings and Text Processing - HW\03. Correct brackets\bin\Debug\_03.Correct_brackets.pdb
+D:\Visual Studio\Strings and Text Processing - HW\03. Correct brackets\obj\Debug\_03.Correct_brackets.exe
+D:\Visual Studio\Strings and Text Processing - HW\03. Correct brackets\obj\Debug\_03.Correct_brackets.pdb

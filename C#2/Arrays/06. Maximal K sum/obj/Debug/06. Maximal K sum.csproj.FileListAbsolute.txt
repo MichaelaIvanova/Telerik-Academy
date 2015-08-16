@@ -1,0 +1,1 @@
+D:\Visual Studio\Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config

@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\22. Words count\bin\Release\_22.Words_count.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\22. Words count\bin\Release\_22.Words_count.exe
+D:\Visual Studio\Strings and Text Processing - HW\22. Words count\bin\Release\_22.Words_count.pdb
+D:\Visual Studio\Strings and Text Processing - HW\22. Words count\obj\Release\_22.Words_count.exe
+D:\Visual Studio\Strings and Text Processing - HW\22. Words count\obj\Release\_22.Words_count.pdb

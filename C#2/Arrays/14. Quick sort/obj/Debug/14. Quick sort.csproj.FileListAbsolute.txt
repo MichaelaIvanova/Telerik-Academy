@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays\14. Quick sort\bin\Debug\_14.Quick_sort.exe.config
+D:\Visual Studio\Arrays\14. Quick sort\obj\Debug\14. Quick sort.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Arrays\14. Quick sort\bin\Debug\_14.Quick_sort.exe
+D:\Visual Studio\Arrays\14. Quick sort\bin\Debug\_14.Quick_sort.pdb
+D:\Visual Studio\Arrays\14. Quick sort\obj\Debug\_14.Quick_sort.exe
+D:\Visual Studio\Arrays\14. Quick sort\obj\Debug\_14.Quick_sort.pdb

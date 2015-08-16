@@ -1,0 +1,5 @@
+D:\Visual Studio\Methods HW\02. Get largest number\bin\Debug\_02.Get_largest_number.exe.config
+D:\Visual Studio\Methods HW\02. Get largest number\bin\Debug\_02.Get_largest_number.exe
+D:\Visual Studio\Methods HW\02. Get largest number\bin\Debug\_02.Get_largest_number.pdb
+D:\Visual Studio\Methods HW\02. Get largest number\obj\Debug\_02.Get_largest_number.exe
+D:\Visual Studio\Methods HW\02. Get largest number\obj\Debug\_02.Get_largest_number.pdb

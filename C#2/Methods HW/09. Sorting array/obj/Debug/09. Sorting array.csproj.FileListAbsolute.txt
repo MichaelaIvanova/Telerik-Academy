@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\09. Sorting array\bin\Debug\_09.Sorting_array.exe.config
+D:\Visual Studio\Methods HW\09. Sorting array\bin\Debug\_09.Sorting_array.exe
+D:\Visual Studio\Methods HW\09. Sorting array\bin\Debug\_09.Sorting_array.pdb
+D:\Visual Studio\Methods HW\09. Sorting array\obj\Debug\09. Sorting array.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\09. Sorting array\obj\Debug\_09.Sorting_array.exe
+D:\Visual Studio\Methods HW\09. Sorting array\obj\Debug\_09.Sorting_array.pdb

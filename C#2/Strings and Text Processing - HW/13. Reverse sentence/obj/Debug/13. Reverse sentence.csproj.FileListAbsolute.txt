@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\13. Reverse sentence\bin\Debug\_13.Reverse_sentence.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\13. Reverse sentence\bin\Debug\_13.Reverse_sentence.exe
+D:\Visual Studio\Strings and Text Processing - HW\13. Reverse sentence\bin\Debug\_13.Reverse_sentence.pdb
+D:\Visual Studio\Strings and Text Processing - HW\13. Reverse sentence\obj\Debug\_13.Reverse_sentence.exe
+D:\Visual Studio\Strings and Text Processing - HW\13. Reverse sentence\obj\Debug\_13.Reverse_sentence.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe
+D:\Visual Studio\Strings and Text Processing - HW\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.pdb
+D:\Visual Studio\Strings and Text Processing - HW\18. Extract e-mails\obj\Debug\18. Extract e-mails.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.exe
+D:\Visual Studio\Strings and Text Processing - HW\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.pdb

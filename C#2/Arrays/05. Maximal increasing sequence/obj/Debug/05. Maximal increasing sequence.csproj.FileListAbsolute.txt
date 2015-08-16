@@ -1,0 +1,9 @@
+D:\Visual Studio\Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.exe.config
+D:\Visual Studio\Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.exe
+D:\Visual Studio\Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.pdb
+D:\Visual Studio\Arrays\05. Maximal increasing sequence\obj\Debug\05. Maximal increasing sequence.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Arrays\05. Maximal increasing sequence\obj\Debug\_05.Maximal_increasing_sequence.exe
+D:\Visual Studio\Arrays\05. Maximal increasing sequence\obj\Debug\_05.Maximal_increasing_sequence.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\05. Maximal increasing sequence\obj\Debug\_05.Maximal_increasing_sequence.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\05. Maximal increasing sequence\obj\Debug\_05.Maximal_increasing_sequence.pdb

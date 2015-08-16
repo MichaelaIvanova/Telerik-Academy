@@ -1,0 +1,1 @@
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\20.InfiniteConvergentSeries\bin\Debug\20.InfiniteConvergentSeries.exe.config

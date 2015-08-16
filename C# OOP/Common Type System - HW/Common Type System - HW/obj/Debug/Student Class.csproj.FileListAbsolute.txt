@@ -1,0 +1,6 @@
+D:\Visual Studio\Common Type System - HW\Common Type System - HW\bin\Debug\Common Type System - HW.exe.config
+D:\Visual Studio\Common Type System - HW\Common Type System - HW\bin\Debug\Common Type System - HW.exe
+D:\Visual Studio\Common Type System - HW\Common Type System - HW\bin\Debug\Common Type System - HW.pdb
+D:\Visual Studio\Common Type System - HW\Common Type System - HW\obj\Debug\Student Class.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Common Type System - HW\Common Type System - HW\obj\Debug\Common Type System - HW.exe
+D:\Visual Studio\Common Type System - HW\Common Type System - HW\obj\Debug\Common Type System - HW.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Text Files - HW\12. Remove words\bin\Debug\_12.Remove_words.exe.config
+D:\Visual Studio\Text Files - HW\12. Remove words\bin\Debug\_12.Remove_words.exe
+D:\Visual Studio\Text Files - HW\12. Remove words\bin\Debug\_12.Remove_words.pdb
+D:\Visual Studio\Text Files - HW\12. Remove words\obj\Debug\_12.Remove_words.exe
+D:\Visual Studio\Text Files - HW\12. Remove words\obj\Debug\_12.Remove_words.pdb

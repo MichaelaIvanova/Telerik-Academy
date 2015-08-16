@@ -1,0 +1,6 @@
+D:\Visual Studio\Numeral Systems - HW\04. Hexadecimal to decima\bin\Debug\_04.Hexadecimal_to_decima.exe.config
+D:\Visual Studio\Numeral Systems - HW\04. Hexadecimal to decima\bin\Debug\_04.Hexadecimal_to_decima.exe
+D:\Visual Studio\Numeral Systems - HW\04. Hexadecimal to decima\bin\Debug\_04.Hexadecimal_to_decima.pdb
+D:\Visual Studio\Numeral Systems - HW\04. Hexadecimal to decima\obj\Debug\04. Hexadecimal to decima.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Numeral Systems - HW\04. Hexadecimal to decima\obj\Debug\_04.Hexadecimal_to_decima.exe
+D:\Visual Studio\Numeral Systems - HW\04. Hexadecimal to decima\obj\Debug\_04.Hexadecimal_to_decima.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Methods HW\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.exe.config
+D:\Visual Studio\Methods HW\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.exe
+D:\Visual Studio\Methods HW\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.pdb
+D:\Visual Studio\Methods HW\12. Subtracting polynomials\obj\Debug\_12.Subtracting_polynomials.exe
+D:\Visual Studio\Methods HW\12. Subtracting polynomials\obj\Debug\_12.Subtracting_polynomials.pdb

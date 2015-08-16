@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\03. English digit\bin\Debug\_03.English_digit.exe.config
+D:\Visual Studio\Methods HW\03. English digit\bin\Debug\_03.English_digit.exe
+D:\Visual Studio\Methods HW\03. English digit\bin\Debug\_03.English_digit.pdb
+D:\Visual Studio\Methods HW\03. English digit\obj\Debug\03. English digit.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\03. English digit\obj\Debug\_03.English_digit.exe
+D:\Visual Studio\Methods HW\03. English digit\obj\Debug\_03.English_digit.pdb

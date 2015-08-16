@@ -1,0 +1,6 @@
+D:\Visual Studio\Exception Handling - HW\4. File Download\bin\Debug\_4.File_Download.exe.config
+D:\Visual Studio\Exception Handling - HW\4. File Download\bin\Debug\_4.File_Download.exe
+D:\Visual Studio\Exception Handling - HW\4. File Download\bin\Debug\_4.File_Download.pdb
+D:\Visual Studio\Exception Handling - HW\4. File Download\obj\Debug\4. File Download.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exception Handling - HW\4. File Download\obj\Debug\_4.File_Download.exe
+D:\Visual Studio\Exception Handling - HW\4. File Download\obj\Debug\_4.File_Download.pdb

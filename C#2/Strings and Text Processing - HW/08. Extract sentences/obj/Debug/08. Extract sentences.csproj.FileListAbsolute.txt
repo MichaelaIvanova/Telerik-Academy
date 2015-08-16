@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\08. Extract sentences\bin\Debug\_08.Extract_sentences.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\08. Extract sentences\bin\Debug\_08.Extract_sentences.exe
+D:\Visual Studio\Strings and Text Processing - HW\08. Extract sentences\bin\Debug\_08.Extract_sentences.pdb
+D:\Visual Studio\Strings and Text Processing - HW\08. Extract sentences\obj\Debug\_08.Extract_sentences.exe
+D:\Visual Studio\Strings and Text Processing - HW\08. Extract sentences\obj\Debug\_08.Extract_sentences.pdb

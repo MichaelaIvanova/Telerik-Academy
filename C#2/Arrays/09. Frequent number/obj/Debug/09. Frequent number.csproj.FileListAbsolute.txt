@@ -1,0 +1,8 @@
+D:\Visual Studio\Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe.config
+D:\Visual Studio\Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe
+D:\Visual Studio\Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.pdb
+D:\Visual Studio\Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.exe
+D:\Visual Studio\Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.pdb

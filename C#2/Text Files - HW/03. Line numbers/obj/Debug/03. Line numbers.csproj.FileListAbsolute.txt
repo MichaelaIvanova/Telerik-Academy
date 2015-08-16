@@ -1,0 +1,6 @@
+D:\Visual Studio\Text Files - HW\03. Line numbers\bin\Debug\_03.Line_numbers.exe.config
+D:\Visual Studio\Text Files - HW\03. Line numbers\obj\Debug\03. Line numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\03. Line numbers\bin\Debug\_03.Line_numbers.exe
+D:\Visual Studio\Text Files - HW\03. Line numbers\bin\Debug\_03.Line_numbers.pdb
+D:\Visual Studio\Text Files - HW\03. Line numbers\obj\Debug\_03.Line_numbers.exe
+D:\Visual Studio\Text Files - HW\03. Line numbers\obj\Debug\_03.Line_numbers.pdb

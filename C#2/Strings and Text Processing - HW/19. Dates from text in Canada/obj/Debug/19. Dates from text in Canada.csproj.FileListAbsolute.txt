@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe
+D:\Visual Studio\Strings and Text Processing - HW\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.pdb
+D:\Visual Studio\Strings and Text Processing - HW\19. Dates from text in Canada\obj\Debug\19. Dates from text in Canada.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.exe
+D:\Visual Studio\Strings and Text Processing - HW\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.pdb

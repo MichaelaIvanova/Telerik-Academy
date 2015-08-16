@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\07. Encode and decode\bin\Debug\_07.Encode_and_decode.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\07. Encode and decode\bin\Debug\_07.Encode_and_decode.exe
+D:\Visual Studio\Strings and Text Processing - HW\07. Encode and decode\bin\Debug\_07.Encode_and_decode.pdb
+D:\Visual Studio\Strings and Text Processing - HW\07. Encode and decode\obj\Debug\07. Encode and decode.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\07. Encode and decode\obj\Debug\_07.Encode_and_decode.exe
+D:\Visual Studio\Strings and Text Processing - HW\07. Encode and decode\obj\Debug\_07.Encode_and_decode.pdb

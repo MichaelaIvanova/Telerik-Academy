@@ -1,0 +1,6 @@
+D:\Visual Studio\Defining classes - part 2 - HW\GenericList\bin\Debug\GenericList.exe.config
+D:\Visual Studio\Defining classes - part 2 - HW\GenericList\bin\Debug\GenericList.exe
+D:\Visual Studio\Defining classes - part 2 - HW\GenericList\bin\Debug\GenericList.pdb
+D:\Visual Studio\Defining classes - part 2 - HW\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Defining classes - part 2 - HW\GenericList\obj\Debug\GenericList.exe
+D:\Visual Studio\Defining classes - part 2 - HW\GenericList\obj\Debug\GenericList.pdb

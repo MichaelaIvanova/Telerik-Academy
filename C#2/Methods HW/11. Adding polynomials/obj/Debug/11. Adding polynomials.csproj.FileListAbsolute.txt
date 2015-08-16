@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods HW\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe.config
+D:\Visual Studio\Methods HW\11. Adding polynomials\obj\Debug\11. Adding polynomials.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods HW\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe
+D:\Visual Studio\Methods HW\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.pdb
+D:\Visual Studio\Methods HW\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.exe
+D:\Visual Studio\Methods HW\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.pdb

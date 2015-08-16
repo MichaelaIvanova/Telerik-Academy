@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.exe
+D:\Visual Studio\Strings and Text Processing - HW\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.pdb
+D:\Visual Studio\Strings and Text Processing - HW\17. Date in Bulgarian\obj\Debug\_17.Date_in_Bulgarian.exe
+D:\Visual Studio\Strings and Text Processing - HW\17. Date in Bulgarian\obj\Debug\_17.Date_in_Bulgarian.pdb

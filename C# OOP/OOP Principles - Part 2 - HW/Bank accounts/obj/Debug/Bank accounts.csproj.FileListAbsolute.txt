@@ -1,0 +1,6 @@
+D:\Visual Studio\OOP Principles - Part 2 - HW\Bank accounts\bin\Debug\Bank accounts.exe.config
+D:\Visual Studio\OOP Principles - Part 2 - HW\Bank accounts\obj\Debug\Bank accounts.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOP Principles - Part 2 - HW\Bank accounts\bin\Debug\Bank accounts.exe
+D:\Visual Studio\OOP Principles - Part 2 - HW\Bank accounts\bin\Debug\Bank accounts.pdb
+D:\Visual Studio\OOP Principles - Part 2 - HW\Bank accounts\obj\Debug\Bank accounts.exe
+D:\Visual Studio\OOP Principles - Part 2 - HW\Bank accounts\obj\Debug\Bank accounts.pdb

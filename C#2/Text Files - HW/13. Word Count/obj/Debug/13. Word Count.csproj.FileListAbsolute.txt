@@ -1,0 +1,5 @@
+D:\Visual Studio\Text Files - HW\13. Word Count\bin\Debug\_13.Word_Count.exe.config
+D:\Visual Studio\Text Files - HW\13. Word Count\bin\Debug\_13.Word_Count.exe
+D:\Visual Studio\Text Files - HW\13. Word Count\bin\Debug\_13.Word_Count.pdb
+D:\Visual Studio\Text Files - HW\13. Word Count\obj\Debug\_13.Word_Count.exe
+D:\Visual Studio\Text Files - HW\13. Word Count\obj\Debug\_13.Word_Count.pdb

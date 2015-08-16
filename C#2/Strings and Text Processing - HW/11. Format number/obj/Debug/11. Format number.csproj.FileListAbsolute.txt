@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\11. Format number\bin\Debug\_11.Format_number.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\11. Format number\bin\Debug\_11.Format_number.exe
+D:\Visual Studio\Strings and Text Processing - HW\11. Format number\bin\Debug\_11.Format_number.pdb
+D:\Visual Studio\Strings and Text Processing - HW\11. Format number\obj\Debug\11. Format number.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\11. Format number\obj\Debug\_11.Format_number.exe
+D:\Visual Studio\Strings and Text Processing - HW\11. Format number\obj\Debug\_11.Format_number.pdb

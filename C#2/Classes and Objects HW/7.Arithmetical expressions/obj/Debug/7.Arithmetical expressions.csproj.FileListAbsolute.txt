@@ -1,0 +1,5 @@
+D:\Visual Studio\Classes and Objects HW\7.Arithmetical expressions\bin\Debug\7.Arithmetical expressions.exe.config
+D:\Visual Studio\Classes and Objects HW\7.Arithmetical expressions\bin\Debug\7.Arithmetical expressions.exe
+D:\Visual Studio\Classes and Objects HW\7.Arithmetical expressions\bin\Debug\7.Arithmetical expressions.pdb
+D:\Visual Studio\Classes and Objects HW\7.Arithmetical expressions\obj\Debug\7.Arithmetical expressions.exe
+D:\Visual Studio\Classes and Objects HW\7.Arithmetical expressions\obj\Debug\7.Arithmetical expressions.pdb

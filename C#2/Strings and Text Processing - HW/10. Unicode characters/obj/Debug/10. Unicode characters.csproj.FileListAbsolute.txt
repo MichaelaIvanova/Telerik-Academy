@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe
+D:\Visual Studio\Strings and Text Processing - HW\10. Unicode characters\bin\Debug\_10.Unicode_characters.pdb
+D:\Visual Studio\Strings and Text Processing - HW\10. Unicode characters\obj\Debug\_10.Unicode_characters.exe
+D:\Visual Studio\Strings and Text Processing - HW\10. Unicode characters\obj\Debug\_10.Unicode_characters.pdb

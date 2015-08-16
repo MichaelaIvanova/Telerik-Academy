@@ -1,0 +1,5 @@
+D:\Visual Studio\Arrays\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.exe.config
+D:\Visual Studio\Arrays\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.exe
+D:\Visual Studio\Arrays\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.pdb
+D:\Visual Studio\Arrays\03. Compare char arrays\obj\Debug\_03.Compare_char_arrays.exe
+D:\Visual Studio\Arrays\03. Compare char arrays\obj\Debug\_03.Compare_char_arrays.pdb

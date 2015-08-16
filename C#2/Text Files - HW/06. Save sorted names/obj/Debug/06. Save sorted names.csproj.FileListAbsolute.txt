@@ -1,0 +1,9 @@
+D:\Visual Studio\Text Files - HW\06. Save sorted names\bin\Debug\_06.Save_sorted_names.exe.config
+D:\Visual Studio\Text Files - HW\06. Save sorted names\bin\Debug\_06.Save_sorted_names.exe
+D:\Visual Studio\Text Files - HW\06. Save sorted names\bin\Debug\_06.Save_sorted_names.pdb
+D:\Visual Studio\Text Files - HW\06. Save sorted names\obj\Debug\06. Save sorted names.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\06. Save sorted names\obj\Debug\_06.Save_sorted_names.exe
+D:\Visual Studio\Text Files - HW\06. Save sorted names\obj\Debug\_06.Save_sorted_names.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\06. Save sorted names\bin\Debug\_06.Save_sorted_names.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\06. Save sorted names\obj\Debug\_06.Save_sorted_names.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\06. Save sorted names\obj\Debug\_06.Save_sorted_names.pdb

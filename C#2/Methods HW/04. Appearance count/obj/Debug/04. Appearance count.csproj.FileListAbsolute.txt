@@ -1,0 +1,5 @@
+D:\Visual Studio\Methods HW\04. Appearance count\bin\Debug\_04.Appearance_count.exe.config
+D:\Visual Studio\Methods HW\04. Appearance count\bin\Debug\_04.Appearance_count.exe
+D:\Visual Studio\Methods HW\04. Appearance count\bin\Debug\_04.Appearance_count.pdb
+D:\Visual Studio\Methods HW\04. Appearance count\obj\Debug\_04.Appearance_count.exe
+D:\Visual Studio\Methods HW\04. Appearance count\obj\Debug\_04.Appearance_count.pdb

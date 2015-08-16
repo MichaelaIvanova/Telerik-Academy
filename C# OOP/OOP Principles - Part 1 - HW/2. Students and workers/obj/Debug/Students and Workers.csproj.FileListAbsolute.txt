@@ -1,0 +1,6 @@
+D:\Visual Studio\OOP Principles - Part 1 - HW\2. Students and workers\bin\Debug\_2.Students_and_workers.exe.config
+D:\Visual Studio\OOP Principles - Part 1 - HW\2. Students and workers\bin\Debug\_2.Students_and_workers.exe
+D:\Visual Studio\OOP Principles - Part 1 - HW\2. Students and workers\bin\Debug\_2.Students_and_workers.pdb
+D:\Visual Studio\OOP Principles - Part 1 - HW\2. Students and workers\obj\Debug\Students and Workers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOP Principles - Part 1 - HW\2. Students and workers\obj\Debug\_2.Students_and_workers.exe
+D:\Visual Studio\OOP Principles - Part 1 - HW\2. Students and workers\obj\Debug\_2.Students_and_workers.pdb

@@ -1,0 +1,9 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\02. Maximal sum\obj\Debug\04. Maximal sum.csprojResolveAssemblyReference.cache
+D:\Visual Studio\MultyDimentionalArrays Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.pdb
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe.config
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.exe
+D:\Visual Studio\C#2HWMe\MultyDimentionalArrays Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.pdb

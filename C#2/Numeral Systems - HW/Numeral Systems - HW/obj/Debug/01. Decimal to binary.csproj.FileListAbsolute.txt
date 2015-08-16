@@ -1,0 +1,9 @@
+D:\Visual Studio\Numeral Systems - HW\Numeral Systems - HW\obj\Debug\01. Decimal to binary.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Numeral Systems - HW\Numeral Systems - HW\bin\Debug\Numeral Systems - HW.exe.config
+D:\Visual Studio\Numeral Systems - HW\Numeral Systems - HW\bin\Debug\Numeral Systems - HW.exe
+D:\Visual Studio\Numeral Systems - HW\Numeral Systems - HW\bin\Debug\Numeral Systems - HW.pdb
+D:\Visual Studio\Numeral Systems - HW\Numeral Systems - HW\obj\Debug\Numeral Systems - HW.exe
+D:\Visual Studio\Numeral Systems - HW\Numeral Systems - HW\obj\Debug\Numeral Systems - HW.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Numeral Systems - HW\Numeral Systems - HW\bin\Debug\Numeral Systems - HW.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Numeral Systems - HW\Numeral Systems - HW\obj\Debug\Numeral Systems - HW.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Numeral Systems - HW\Numeral Systems - HW\obj\Debug\Numeral Systems - HW.pdb

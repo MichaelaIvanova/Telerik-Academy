@@ -1,0 +1,6 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\06. Binary search\bin\Debug\_06.Binary_search.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\06. Binary search\bin\Debug\_06.Binary_search.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\06. Binary search\bin\Debug\_06.Binary_search.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\06. Binary search\obj\Debug\_06.Binary_search.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\06. Binary search\obj\Debug\_06.Binary_search.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\06. Binary search\obj\Debug\06. Binary search.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual Studio\Defining classes - part 2 - HW\Defining classes - part 2 - HW\bin\Debug\Defining classes - part 2 - HW.exe.config
+D:\Visual Studio\Defining classes - part 2 - HW\Defining classes - part 2 - HW\bin\Debug\Defining classes - part 2 - HW.exe
+D:\Visual Studio\Defining classes - part 2 - HW\Defining classes - part 2 - HW\bin\Debug\Defining classes - part 2 - HW.pdb
+D:\Visual Studio\Defining classes - part 2 - HW\Defining classes - part 2 - HW\obj\Debug\Defining classes - part 2 - HW.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Defining classes - part 2 - HW\Defining classes - part 2 - HW\obj\Debug\Defining classes - part 2 - HW.exe
+D:\Visual Studio\Defining classes - part 2 - HW\Defining classes - part 2 - HW\obj\Debug\Defining classes - part 2 - HW.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Defining - Classes - part 1 -HW\Defining - Classes - part 1 -HW\bin\Debug\Defining - Classes - part 1 -HW.exe.config
+D:\Visual Studio\Defining - Classes - part 1 -HW\Defining - Classes - part 1 -HW\bin\Debug\Defining - Classes - part 1 -HW.exe
+D:\Visual Studio\Defining - Classes - part 1 -HW\Defining - Classes - part 1 -HW\bin\Debug\Defining - Classes - part 1 -HW.pdb
+D:\Visual Studio\Defining - Classes - part 1 -HW\Defining - Classes - part 1 -HW\obj\Debug\Mobile Phone.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Defining - Classes - part 1 -HW\Defining - Classes - part 1 -HW\obj\Debug\Defining - Classes - part 1 -HW.exe
+D:\Visual Studio\Defining - Classes - part 1 -HW\Defining - Classes - part 1 -HW\obj\Debug\Defining - Classes - part 1 -HW.pdb

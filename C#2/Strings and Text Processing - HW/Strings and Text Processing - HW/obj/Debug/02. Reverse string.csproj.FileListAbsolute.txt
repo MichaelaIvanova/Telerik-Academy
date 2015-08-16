@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\Strings and Text Processing - HW\bin\Debug\Strings and Text Processing - HW.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\Strings and Text Processing - HW\bin\Debug\Strings and Text Processing - HW.exe
+D:\Visual Studio\Strings and Text Processing - HW\Strings and Text Processing - HW\bin\Debug\Strings and Text Processing - HW.pdb
+D:\Visual Studio\Strings and Text Processing - HW\Strings and Text Processing - HW\obj\Debug\02. Reverse string.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\Strings and Text Processing - HW\obj\Debug\Strings and Text Processing - HW.exe
+D:\Visual Studio\Strings and Text Processing - HW\Strings and Text Processing - HW\obj\Debug\Strings and Text Processing - HW.pdb

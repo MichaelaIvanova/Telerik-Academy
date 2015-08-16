@@ -1,0 +1,6 @@
+D:\Visual Studio\Classes and Objects HW\04. Triangle surface\bin\Debug\_04.Triangle_surface.exe.config
+D:\Visual Studio\Classes and Objects HW\04. Triangle surface\bin\Debug\_04.Triangle_surface.exe
+D:\Visual Studio\Classes and Objects HW\04. Triangle surface\bin\Debug\_04.Triangle_surface.pdb
+D:\Visual Studio\Classes and Objects HW\04. Triangle surface\obj\Debug\04. Triangle surface.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Classes and Objects HW\04. Triangle surface\obj\Debug\_04.Triangle_surface.exe
+D:\Visual Studio\Classes and Objects HW\04. Triangle surface\obj\Debug\_04.Triangle_surface.pdb

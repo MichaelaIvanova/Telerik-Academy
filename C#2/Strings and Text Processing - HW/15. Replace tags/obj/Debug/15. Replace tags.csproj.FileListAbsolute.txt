@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\15. Replace tags\bin\Debug\_15.Replace_tags.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\15. Replace tags\bin\Debug\_15.Replace_tags.exe
+D:\Visual Studio\Strings and Text Processing - HW\15. Replace tags\bin\Debug\_15.Replace_tags.pdb
+D:\Visual Studio\Strings and Text Processing - HW\15. Replace tags\obj\Debug\15. Replace tags.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\15. Replace tags\obj\Debug\_15.Replace_tags.exe
+D:\Visual Studio\Strings and Text Processing - HW\15. Replace tags\obj\Debug\_15.Replace_tags.pdb

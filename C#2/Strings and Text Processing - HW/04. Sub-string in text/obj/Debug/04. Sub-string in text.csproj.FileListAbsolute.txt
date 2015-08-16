@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.exe
+D:\Visual Studio\Strings and Text Processing - HW\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.pdb
+D:\Visual Studio\Strings and Text Processing - HW\04. Sub-string in text\obj\Debug\_04.Sub_string_in_text.exe
+D:\Visual Studio\Strings and Text Processing - HW\04. Sub-string in text\obj\Debug\_04.Sub_string_in_text.pdb

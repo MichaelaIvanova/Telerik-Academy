@@ -1,0 +1,5 @@
+D:\Visual Studio\Strings and Text Processing - HW\24. Order words\bin\Release\_24.Order_words.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\24. Order words\bin\Release\_24.Order_words.exe
+D:\Visual Studio\Strings and Text Processing - HW\24. Order words\bin\Release\_24.Order_words.pdb
+D:\Visual Studio\Strings and Text Processing - HW\24. Order words\obj\Release\_24.Order_words.exe
+D:\Visual Studio\Strings and Text Processing - HW\24. Order words\obj\Release\_24.Order_words.pdb

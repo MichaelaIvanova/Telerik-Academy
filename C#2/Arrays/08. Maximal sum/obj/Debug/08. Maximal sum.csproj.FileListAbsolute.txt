@@ -1,0 +1,5 @@
+D:\Visual Studio\Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.exe.config
+D:\Visual Studio\Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.exe
+D:\Visual Studio\Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.pdb
+D:\Visual Studio\Arrays\08. Maximal sum\obj\Debug\_08.Maximal_sum.exe
+D:\Visual Studio\Arrays\08. Maximal sum\obj\Debug\_08.Maximal_sum.pdb

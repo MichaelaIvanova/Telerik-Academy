@@ -1,0 +1,5 @@
+D:\Visual Studio\Numeral Systems - HW\02. Binary to decimal\bin\Debug\_02.Binary_to_decimal.exe.config
+D:\Visual Studio\Numeral Systems - HW\02. Binary to decimal\bin\Debug\_02.Binary_to_decimal.exe
+D:\Visual Studio\Numeral Systems - HW\02. Binary to decimal\bin\Debug\_02.Binary_to_decimal.pdb
+D:\Visual Studio\Numeral Systems - HW\02. Binary to decimal\obj\Debug\_02.Binary_to_decimal.exe
+D:\Visual Studio\Numeral Systems - HW\02. Binary to decimal\obj\Debug\_02.Binary_to_decimal.pdb

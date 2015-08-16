@@ -1,0 +1,6 @@
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\Extension-Methods-Delegates-Lambda-LINQ-HW\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ-HW.exe.config
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\Extension-Methods-Delegates-Lambda-LINQ-HW\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ-HW.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\Extension-Methods-Delegates-Lambda-LINQ-HW\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ-HW.pdb
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\Extension-Methods-Delegates-Lambda-LINQ-HW\obj\Debug\01. StringBuilder.Substring.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\Extension-Methods-Delegates-Lambda-LINQ-HW\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ-HW.exe
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\Extension-Methods-Delegates-Lambda-LINQ-HW\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ-HW.pdb

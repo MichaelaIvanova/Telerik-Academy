@@ -1,0 +1,5 @@
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.exe.config
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.pdb
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sort by string length\obj\Debug\_05.Sort_by_string_length.exe
+D:\Visual Studio\MultyDimentionalArrays Homework\05. Sort by string length\obj\Debug\_05.Sort_by_string_length.pdb

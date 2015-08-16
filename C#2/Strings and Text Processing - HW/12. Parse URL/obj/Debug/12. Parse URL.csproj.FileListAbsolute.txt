@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\12. Parse URL\bin\Debug\_12.Parse_URL.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\12. Parse URL\bin\Debug\_12.Parse_URL.exe
+D:\Visual Studio\Strings and Text Processing - HW\12. Parse URL\bin\Debug\_12.Parse_URL.pdb
+D:\Visual Studio\Strings and Text Processing - HW\12. Parse URL\obj\Debug\12. Parse URL.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\12. Parse URL\obj\Debug\_12.Parse_URL.exe
+D:\Visual Studio\Strings and Text Processing - HW\12. Parse URL\obj\Debug\_12.Parse_URL.pdb

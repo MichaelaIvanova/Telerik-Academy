@@ -1,0 +1,1 @@
+D:\Visual Studio\Extension-Methods-Delegates-Lambda-LINQ-HW\17. Longest string\bin\Debug\_17.Longest_string.exe.config

@@ -1,0 +1,6 @@
+D:\Visual Studio\OOP Principles - Part 2 - HW\Range Exceptions\bin\Debug\Range Exceptions.exe.config
+D:\Visual Studio\OOP Principles - Part 2 - HW\Range Exceptions\bin\Debug\Range Exceptions.exe
+D:\Visual Studio\OOP Principles - Part 2 - HW\Range Exceptions\bin\Debug\Range Exceptions.pdb
+D:\Visual Studio\OOP Principles - Part 2 - HW\Range Exceptions\obj\Debug\Range Exceptions.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOP Principles - Part 2 - HW\Range Exceptions\obj\Debug\Range Exceptions.exe
+D:\Visual Studio\OOP Principles - Part 2 - HW\Range Exceptions\obj\Debug\Range Exceptions.pdb

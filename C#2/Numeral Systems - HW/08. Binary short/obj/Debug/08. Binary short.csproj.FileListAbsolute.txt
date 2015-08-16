@@ -1,0 +1,6 @@
+D:\Visual Studio\Numeral Systems - HW\08. Binary short\bin\Debug\_08.Binary_short.exe.config
+D:\Visual Studio\Numeral Systems - HW\08. Binary short\bin\Debug\_08.Binary_short.exe
+D:\Visual Studio\Numeral Systems - HW\08. Binary short\bin\Debug\_08.Binary_short.pdb
+D:\Visual Studio\Numeral Systems - HW\08. Binary short\obj\Debug\08. Binary short.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Numeral Systems - HW\08. Binary short\obj\Debug\_08.Binary_short.exe
+D:\Visual Studio\Numeral Systems - HW\08. Binary short\obj\Debug\_08.Binary_short.pdb

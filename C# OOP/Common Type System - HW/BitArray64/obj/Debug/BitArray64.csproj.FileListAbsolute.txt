@@ -1,0 +1,6 @@
+D:\Visual Studio\Common Type System - HW\BitArray64\bin\Debug\BitArray64.exe.config
+D:\Visual Studio\Common Type System - HW\BitArray64\bin\Debug\BitArray64.exe
+D:\Visual Studio\Common Type System - HW\BitArray64\bin\Debug\BitArray64.pdb
+D:\Visual Studio\Common Type System - HW\BitArray64\obj\Debug\BitArray64.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Common Type System - HW\BitArray64\obj\Debug\BitArray64.exe
+D:\Visual Studio\Common Type System - HW\BitArray64\obj\Debug\BitArray64.pdb

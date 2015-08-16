@@ -1,0 +1,8 @@
+D:\Visual Studio\Text Files - HW\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config
+D:\Visual Studio\Text Files - HW\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe
+D:\Visual Studio\Text Files - HW\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.pdb
+D:\Visual Studio\Text Files - HW\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.exe
+D:\Visual Studio\Text Files - HW\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Text Files - HW\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.pdb

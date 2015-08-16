@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - HW\06. String length\bin\Debug\_06.String_length.exe.config
+D:\Visual Studio\Strings and Text Processing - HW\06. String length\bin\Debug\_06.String_length.exe
+D:\Visual Studio\Strings and Text Processing - HW\06. String length\bin\Debug\_06.String_length.pdb
+D:\Visual Studio\Strings and Text Processing - HW\06. String length\obj\Debug\06. String length.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Strings and Text Processing - HW\06. String length\obj\Debug\_06.String_length.exe
+D:\Visual Studio\Strings and Text Processing - HW\06. String length\obj\Debug\_06.String_length.pdb

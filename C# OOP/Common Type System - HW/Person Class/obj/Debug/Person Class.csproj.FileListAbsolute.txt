@@ -1,0 +1,5 @@
+D:\Visual Studio\Common Type System - HW\Person Class\bin\Debug\Person Class.exe.config
+D:\Visual Studio\Common Type System - HW\Person Class\bin\Debug\Person Class.exe
+D:\Visual Studio\Common Type System - HW\Person Class\bin\Debug\Person Class.pdb
+D:\Visual Studio\Common Type System - HW\Person Class\obj\Debug\Person Class.exe
+D:\Visual Studio\Common Type System - HW\Person Class\obj\Debug\Person Class.pdb

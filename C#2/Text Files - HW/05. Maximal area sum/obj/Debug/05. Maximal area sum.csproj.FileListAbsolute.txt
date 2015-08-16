@@ -1,0 +1,6 @@
+D:\Visual Studio\Text Files - HW\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe.config
+D:\Visual Studio\Text Files - HW\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe
+D:\Visual Studio\Text Files - HW\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.pdb
+D:\Visual Studio\Text Files - HW\05. Maximal area sum\obj\Debug\05. Maximal area sum.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Text Files - HW\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.exe
+D:\Visual Studio\Text Files - HW\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.pdb

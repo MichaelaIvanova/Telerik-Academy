@@ -1,0 +1,9 @@
+D:\Visual Studio\Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.exe.config
+D:\Visual Studio\Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.exe
+D:\Visual Studio\Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.pdb
+D:\Visual Studio\Arrays\07. Selection sort\obj\Debug\07. Selection sort.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Arrays\07. Selection sort\obj\Debug\_07.Selection_sort.exe
+D:\Visual Studio\Arrays\07. Selection sort\obj\Debug\_07.Selection_sort.pdb
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.exe.config
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\07. Selection sort\obj\Debug\_07.Selection_sort.exe
+D:\Visual Studio\C# 2 everything\C#2HWMe\Arrays\07. Selection sort\obj\Debug\_07.Selection_sort.pdb
